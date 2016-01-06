@@ -6,3 +6,9 @@ we are practicing
 7 is fun too!
 9 i okay
 But i think 3 is the best
+
+Let's make some changes
+See if this whole GitHub thing works
+
+
+random numbers 3 4 5 2 1 
