@@ -1,0 +1,5 @@
+#    more practice code
+
+
+
+awk -F '{print $2}' my_practice_file
