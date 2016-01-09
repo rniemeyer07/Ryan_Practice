@@ -17,3 +17,5 @@ resolve the conflics
 random numbers 3 4 5 2 1 
 
 do some more random things
+
+changing stuff 2 3 6 2
