@@ -2,9 +2,9 @@
 
 this is more practice text
 
-doing some stuff from GitHub
+doing some stuff from GitHub - hot fix
 
-I am doing this for practice
+I am doing this for practice - hot fix
 
 adding stuff to be able to do a tag with edits
 
